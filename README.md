@@ -4,7 +4,7 @@ Tabii ki, Discord Ticket botunuz için README belgesini hazırlıyorum. İşte d
 
 # Discord Ticket Botu
 
-![Ticket Bot](https://socialify.git.ci/setscript/SetScript-Desktop/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Floating+Cogs&stargazers=1&theme=Dark)
+![Ticket Bot](https://socialify.git.ci/setscript/setscript-ticket/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Floating+Cogs&stargazers=1&theme=Dark)
 
 Discord Ticket Botu, sunucularınızdaki kullanıcıların destek taleplerini yönetmek için tasarlanmış modern bir çözümdür. Kullanıcı dostu yapısıyla hızlı ve etkili bir destek sistemi sunar.
 
